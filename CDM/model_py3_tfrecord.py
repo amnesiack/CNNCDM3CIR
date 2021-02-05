@@ -2,7 +2,6 @@ import time
 
 from utils_py3_tfrecord import *
 from model_database import *
-import rawpy
 
 class denoiser(object):
     def __init__(self, sess, input_c_dim=3, batch_size=64, patch_size=100):

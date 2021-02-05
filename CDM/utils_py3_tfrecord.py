@@ -4,7 +4,6 @@ import sys
 
 import numpy as np
 import tensorflow as tf
-import matplotlib.pyplot as plt
 from PIL import Image
 from msssim import MultiScaleSSIM
 

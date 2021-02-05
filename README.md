@@ -1,10 +1,12 @@
 # The code and trained model for paper "Color Image Restoration Exploiting Inter-channel Correlation with a 3-stage CNN"
 
-### K. Cui, A. Boev, E. Alshina and E. Steinbach, Color Image Restoration Exploiting Inter-channel Correlation with a 3-stage CNN,IEEE-JSTSP, 2020.
+### K. Cui, A. Boev, E. Alshina and E. Steinbach, Color Image Restoration Exploiting Inter-channel Correlation with a 3-stage CNN,IEEE-JSTSP, 2020. DOI: [10.1109/JSTSP.2020.3043148](https://10.1109/JSTSP.2020.3043148)
 #### Kai Cui <Kai.cui@tum.de>
 #### Lehrstuhl fuer Medientechnik
 #### Technische Universitaet Muenchen
 #### Last modified 05.02.2021
+
+Dependencies: TensorFlow 1.XX (1.10 or newer), NumPy, Pillow
 
 1. There are three subtasks in our paper, color demosaicking (CDM), compression artifacts reduction (CAR), and real-world color image denoising (RIDN). The code and the trained models are in the corresponding folder.
 
