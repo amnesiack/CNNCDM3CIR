@@ -1,0 +1,15 @@
+.idea/
+sample/
+logs/
+test/
+data/
+trained_model/
+
+*.npy
+*.pyc
+*.tar.gz
+*.pptx
+*.tfrecords
+*.png
+*.bpg
+*.mat
