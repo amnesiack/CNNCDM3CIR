@@ -2,7 +2,6 @@
 sample/
 logs/
 test/
-data/
 trained_model/
 
 *.npy
@@ -13,3 +12,6 @@ trained_model/
 *.png
 *.bpg
 *.mat
+*.tif
+*.jpg
+*.bmp
