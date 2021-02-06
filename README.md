@@ -1,6 +1,6 @@
 # The codes and trained model for paper *"Color Image Restoration Exploiting Inter-channel Correlation with a 3-stage CNN"*
 
-### K. Cui, A. Boev, E. Alshina and E. Steinbach, *Color Image Restoration Exploiting Inter-channel Correlation with a 3-stage CNN*, IEEE-JSTSP, 2020. DOI: [10.1109/JSTSP.2020.3043148](https://10.1109/JSTSP.2020.3043148)
+### K. Cui, A. Boev, E. Alshina and E. Steinbach, *Color Image Restoration Exploiting Inter-channel Correlation with a 3-stage CNN*, IEEE-JSTSP, 2020. DOI: [10.1109/JSTSP.2020.3043148](https://doi.org/10.1109/JSTSP.2020.3043148)
 
 ---
 ## Dependencies: 
@@ -49,6 +49,13 @@ Please cite our paper if you find the paper or the code is helpful for your rese
   pages={1-1},  
   doi={10.1109/JSTSP.2020.3043148}}
 ```
+
+## Related Work
+
+1. K. Cui, Z. Jin and E. Steinbach, *Color image demosaicking using a 3-stage convolutional neural network structure*, ICIP 2018. [[Paper]](https://doi.org/10.1109/ICIP.2018.8451020) [[Code]](https://github.com/amnesiack/ICIP2018CDM)
+2. K. Cui and E. Steinbach, *Decoder Side Image Quality Enhancement exploiting Inter-channel Correlation in a 3-stage CNN: Submission to CLIC 2018*, CVPR Workshops 2018. [[Paper]](https://openaccess.thecvf.com/content_cvpr_2018_workshops/w50/html/Cui_Decoder_Side_Image_CVPR_2018_paper.html)
+3. K. Cui and E. Steinbach, *Decoder Side Color Image Quality Enhancement using a Wavelet Transform based 3-stage Convolutional Neural Network*, CVPR Workshops 2019. [[Paper]](https://openaccess.thecvf.com/content_CVPRW_2019/html/CLIC_2019/Cui_Decoder_Side_Color_Image_Quality_Enhancement_using_a_Wavelet_Transform_CVPRW_2019_paper.html)
+
 ---
 ## Maintainer:
 
@@ -60,4 +67,5 @@ Last modified 06.02.2021
 ---
 
 ## License
+[![License](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg)](https://opensource.org/licenses/Apache-2.0)  
 This project is released under the Apache 2.0 license.
