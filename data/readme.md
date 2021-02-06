@@ -2,28 +2,34 @@ Please download the example dataset from: https://tumde-my.sharepoint.com/:f:/g/
 
 The folder structure of the data folder should be:
 
-data
-├── CDM
-|   ├── KodakTrueColor
-|   |   └── groundtruth
-|   ├── McM
-|   |   └── groundtruth
-|   └── WED-NEW
-|       └── groundtruth
-├── CAR
-|   ├── LIVE1_rgb
-|   |   ├── groundtruth
-|   |   ├── compressed_QP000
-|   |   ├── compressed_QP010
+```
+data  
+|
+├── CDM  
+|   ├── KodakTrueColor  
+|   |   └── groundtruth  
+|   ├── McM  
+|   |   └── groundtruth  
+|   └── WED-NEW  
+|       └── groundtruth  
+|
+├── CAR  
+|   ├── LIVE1_rgb  
+|   |   ├── groundtruth  
+|   |   ├── compressed_QP000  
+|   |   ├── compressed_QP010  
 |   |   :
-|   |   └── compressed_QP100 
-|   └── CLIC_validation
-|       ├── groundtruth
-|       ├── compressed_QP000
-|       ├── compressed_QP010
-|       :
-|       └── compressed_QP100 
-└── RIDN
-    └── SIDD_validation
-        ├── groundtruth
+|   |   └── compressed_QP100   
+|   |
+|   └── CLIC_validation  
+|       ├── groundtruth  
+|       ├── compressed_QP000  
+|       ├── compressed_QP010  
+|       :  
+|       └── compressed_QP100   
+|
+└── RIDN  
+    └── SIDD_validation  
+        ├── groundtruth  
         └── noisy
+```
